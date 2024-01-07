@@ -30,7 +30,8 @@ For the api you can use Insomnia for example and provide these 5 requests for in
    }
 
 Enitity Relationship Diagram for the database:
-![image](https://github.com/lukas99o/MiniprojektAPI/assets/129649913/b2a11925-fd11-462d-95d9-279b00b98aed)
+![image](https://github.com/lukas99o/MiniprojektAPI/assets/129649913/ff59679e-d8ac-4084-8396-6621a05be2eb)
 
 Unified Modeling Language Diagram for the api:
-[UML-klass-API.pdf](https://github.com/lukas99o/MiniprojektAPI/files/13853538/UML-klass-API.pdf)
+![image](https://github.com/lukas99o/MiniprojektAPI/assets/129649913/985eb7eb-a747-4e2b-8a03-95cfe1f12d28)
+
